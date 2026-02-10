@@ -105,6 +105,10 @@ h1, h2, h3 {
 }
 
 
+.badge + .badge {
+  margin-left: .35rem;
+}
+
 .timeline {
   border-left: 3px solid #d5e0ef;
   padding-left: 1rem;
