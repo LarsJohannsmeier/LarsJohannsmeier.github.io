@@ -1,31 +1,43 @@
 ---
+layout: page
 title: About
+permalink: /about/
 ---
 
-# About Me
+## About Me
 
-I am an ambitious and passionate roboticist with extensive experience in **robot manipulation learning and modelling for contact‐intensive problems**. My research spans task planning, control, motion planning, telepresence, and human–robot interaction. I have successfully translated research into commercial products and contributed to well-funded research proposals.
+I am a robotics researcher with a strong focus on tactile manipulation, robot learning,
+and autonomous skill synthesis. My work combines rigorous scientific methodology with
+practical system design to move research outcomes into real-world applications.
+
+## Professional Timeline
+
+<div class="timeline">
+  <div class="timeline-item">
+    <strong>Research Scientist — NVIDIA Corporation</strong><br>
+    <span class="muted">Industrial AI/robotics research and transfer.</span>
+  </div>
+  <div class="timeline-item">
+    <strong>Head of Robotics Learning — Franka Robotics GmbH</strong><br>
+    <span class="muted">Led robotics learning initiatives and product-facing research.</span>
+  </div>
+  <div class="timeline-item">
+    <strong>Research Assistant — Technical University of Munich</strong><br>
+    <span class="muted">PhD-level research in AI/ML for manipulation.</span>
+  </div>
+  <div class="timeline-item">
+    <strong>Research Assistant — Leibniz Universität Hannover</strong><br>
+    <span class="muted">Foundational work in mechatronics and manipulation.</span>
+  </div>
+</div>
 
 ## Education
 
-**Ph.D. in Electrical Engineering** — Technical University Munich  
-Strong focus on AI/ML in robotic manipulation  
-*Summa Cum Laude* (2024)
+- **Ph.D. in Electrical Engineering**, Technical University of Munich (*Summa Cum Laude*, 2024)
+- **M.Sc. in Mechatronics**, Leibniz Universität Hannover
+- **B.Sc. in Mechatronics**, Leibniz Universität Hannover
 
-**M.Sc. in Mechatronics** — Gottfried Wilhelm Leibniz Universität Hannover  
-Thesis: Force/torque sensor development for robot end effectors
+## Collaboration Interests
 
-**B.Sc. in Mechatronics** — Gottfried Wilhelm Leibniz Universität Hannover  
-Thesis: Collision detection for manipulators
-
-## Experience
-
-- **Research Scientist**, NVIDIA Corporation  
-- **Head of Robotics Learning**, Franka Robotics GmbH  
-- **Research Assistant**, Technical University Munich  
-- **Research Assistant**, Gottfried Wilhelm Leibniz Universität Hannover  
-- Robotics research at German Aerospace Center (DLR)
-
----
-
-I specialize in building robust robotic systems, learning architectures, and demonstrators that bridge theoretical research with real-world performance.
+I am open to collaboration on tactile skill learning, robust manipulation in uncertain environments,
+and scalable robotics learning architectures for industry deployment.
