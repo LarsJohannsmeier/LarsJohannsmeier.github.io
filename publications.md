@@ -11,7 +11,7 @@ For the full and most up-to-date list, see:
 ## Books and Theses
 
 <div class="pub-item">
-  <span class="badge">Thesis</span><span class="badge">PhD</span><br>
+  <span class="badge">Thesis</span> <span class="badge">PhD</span><br>
   <strong>Johannsmeier, L.</strong> (2024).<br>
   <em>Towards Autonomous Policy Synthesis: Tactile Manipulation Skills, Learning Architecture, and Process-Taxonomy-Based Planning.</em><br>
   Technical University of Munich, Germany.
@@ -41,7 +41,7 @@ For the full and most up-to-date list, see:
 </div>
 
 <div class="pub-item">
-  <span class="badge">Journal</span><span class="badge">RA-L</span><br>
+  <span class="badge">Journal</span> <span class="badge">RA-L</span><br>
   <strong>Shahriari, E., Johannsmeier, L., Jensen, E. R., & Haddadin, S.</strong> (2020).<br>
   <em>Power Flow Regulation, Adaptation, and Learning for Intrinsically Robust Virtual Energy Tanks.</em><br>
   <strong>IEEE Robotics and Automation Letters</strong>, 5(1), 211–218.
@@ -64,49 +64,49 @@ For the full and most up-to-date list, see:
 ## Conference Papers
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">ICRA</span><br>
+  <span class="badge">Conference</span> <span class="badge">ICRA</span><br>
   <strong>Wu, Y., Wu, F., Chen, L., Chen, K., Schneider, S., Johannsmeier, L., Bing, Z., Abu-Dakka, F. J., Knoll, A., & Haddadin, S.</strong> (2024).<br>
   <em>1 kHz Behavior Tree for Self-adaptable Tactile Insertion.</em><br>
   In <strong>ICRA</strong> (pp. 16002–16008).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">IROS</span><br>
+  <span class="badge">Conference</span> <span class="badge">IROS</span><br>
   <strong>Schneider, S., Wu, Y., Johannsmeier, L., Wu, F., & Haddadin, S.</strong> (2024).<br>
   <em>A Scalable Platform for Robot Learning and Physical Skill Data Collection.</em><br>
   In <strong>IROS</strong> (pp. 5925–5932).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">IROS</span><br>
+  <span class="badge">Conference</span> <span class="badge">IROS</span><br>
   <strong>Chen, X., Johannsmeier, L., Sadeghian, H., Shahriari, E., Danneberg, M., Nicklas, A., Wu, F., Fettweis, G. P., & Haddadin, S.</strong> (2022).<br>
   <em>On the Communication Channel in Bilateral Teleoperation: An Experimental Study for Ethernet, WiFi, LTE and 5G.</em><br>
   In <strong>IROS</strong> (pp. 7712–7719).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">IROS</span><br>
+  <span class="badge">Conference</span> <span class="badge">IROS</span><br>
   <strong>Johannsmeier, L., & Haddadin, S.</strong> (2022).<br>
   <em>Can we reach human expert programming performance? A tactile manipulation case study in learning time and task performance.</em><br>
   In <strong>IROS</strong> (pp. 12081–12088).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">CoRL</span><br>
+  <span class="badge">Conference</span> <span class="badge">CoRL</span><br>
   <strong>Voigt, F., Johannsmeier, L., & Haddadin, S.</strong> (2020).<br>
   <em>Multi-Level Structure vs. End-to-End-Learning in High-Performance Tactile Robotic Manipulation.</em><br>
   In <strong>CoRL</strong> (pp. 2306–2316).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">ICRA</span><br>
+  <span class="badge">Conference</span> <span class="badge">ICRA</span><br>
   <strong>Johannsmeier, L., Gerchow, M., & Haddadin, S.</strong> (2019).<br>
   <em>A Framework for Robot Manipulation: Skill Formalism, Meta Learning and Adaptive Control.</em><br>
   In <strong>ICRA</strong> (pp. 5844–5850).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">ICRA</span><br>
+  <span class="badge">Conference</span> <span class="badge">ICRA</span><br>
   <strong>Grischke, J., Johannsmeier, L., Eich, L., & Haddadin, S.</strong> (2019).<br>
   <em>Dentronics: Review, First Concepts and Pilot Study of a New Application Domain for Collaborative Robots in Dental Assistance.</em><br>
   In <strong>ICRA</strong> (pp. 6525–6532).
@@ -120,35 +120,35 @@ For the full and most up-to-date list, see:
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">ACC</span><br>
+  <span class="badge">Conference</span> <span class="badge">ACC</span><br>
   <strong>Shahriari, E., Johannsmeier, L., & Haddadin, S.</strong> (2018).<br>
   <em>Valve-based Virtual Energy Tanks: A Framework to Simultaneously Passify Controls and Embed Control Objectives.</em><br>
   In <strong>ACC</strong> (pp. 3634–3641).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">HRI Companion</span><br>
+  <span class="badge">Conference</span> <span class="badge">HRI Companion</span><br>
   <strong>Haddadin, S., Johannsmeier, L., Becker, M., Schappler, M., Lilge, T., Haddadin, S., Schmid, J., Ende, T., & Parusel, S.</strong> (2018).<br>
   <em>Roboterfabrik: A Pilot to Link and Unify German Robotics Education to Match Industrial and Societal Demands.</em><br>
   In <strong>HRI Companion</strong> (p. 375).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">IROS</span><br>
+  <span class="badge">Conference</span> <span class="badge">IROS</span><br>
   <strong>Grassmann, R., Johannsmeier, L., & Haddadin, S.</strong> (2018).<br>
   <em>Smooth Point-to-Point Trajectory Planning in SE(3) with Self-Collision and Joint Constraints Avoidance.</em><br>
   In <strong>IROS</strong> (pp. 1–9).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">IROS</span><br>
+  <span class="badge">Conference</span> <span class="badge">IROS</span><br>
   <strong>Haddadin, S., & Johannsmeier, L.</strong> (2018).<br>
   <em>The Art of Manipulation: Learning to Manipulate Blindly.</em><br>
   In <strong>IROS</strong> (pp. 1–9).
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span><span class="badge">RiE</span><br>
+  <span class="badge">Conference</span> <span class="badge">RiE</span><br>
   <strong>Haddadin, S., Johannsmeier, L., Schmid, J., Ende, T., Parusel, S., Haddadin, S., Schappler, M., Lilge, T., & Becker, M.</strong> (2018).<br>
   <em>roboterfabrik: A Pilot to Link and Unify German Robotics Education to Match Industrial and Societal Demands.</em><br>
   In <strong>RiE</strong> (pp. 3–17).
