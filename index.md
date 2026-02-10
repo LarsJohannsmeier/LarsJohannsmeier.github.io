@@ -40,8 +40,8 @@ permalink: /
 ## Selected Publications
 
 - **Nature Machine Intelligence (2025)** — *A process-centric manipulation taxonomy for the organisation, classification and synthesis of tactile robot skills.*
-- **Proceedings of the IEEE (2018)** — *Tactile robots as a central embodiment of the tactile internet.*
-- **IROS (2022)** — *Can we reach human expert programming performance?*
+- **IEEE Robotics and Automation Letters (2023)** — *Towards Task-Specific Modular Gripper Fingers: Automatic Production of Fingertip Mechanics.*
+- **Proceedings of the IEEE (2019)** — *Tactile Robots as a Central Embodiment of the Tactile Internet.*
 
 [See full publication list →]({{ '/publications/' | relative_url }})
 

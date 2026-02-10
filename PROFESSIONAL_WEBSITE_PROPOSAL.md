@@ -70,7 +70,7 @@ This reduces ambiguity and makes the site instantly scannable.
 - Add **awards, grants, invited talks** subsection.
 
 ### B. Publications page
-- Convert to **filterable sections** (journal, conference, thesis, preprint),
+- Convert to **filterable sections** (journal, conference, thesis),
 - Add **tag badges** (tactile, manipulation, learning, planning),
 - Add external buttons: PDF / DOI / Code / Video.
 
