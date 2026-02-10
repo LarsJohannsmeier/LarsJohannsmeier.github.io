@@ -20,28 +20,21 @@ For the full and most up-to-date list, see:
 ## Journal Articles
 
 <div class="pub-item">
-  <span class="badge">Journal</span> <span class="badge">Nature Machine Intelligence</span><br>
-  <strong>Johannsmeier, L., Schneider, S., Li, Y., Burdet, E., Haddadin, S.</strong> (2025).<br>
-  <em>A process-centric manipulation taxonomy for the organisation, classification and synthesis of tactile robot skills.</em><br>
-  <strong>Nature Machine Intelligence</strong>.
-</div>
-
-<div class="pub-item">
-  <span class="badge">Journal</span> <span class="badge">RA-L</span><br>
+  <span class="badge">Journal</span><span class="badge">RA-L</span><br>
   <strong>Ringwald, J., Schneider, S., Chen, L., Knobbe, D., Johannsmeier, L., Swikir, A., & Haddadin, S.</strong> (2023).<br>
   <em>Towards Task-Specific Modular Gripper Fingers: Automatic Production of Fingertip Mechanics.</em><br>
   <strong>IEEE Robotics and Automation Letters</strong>, 8(3), 1866–1873.
 </div>
 
 <div class="pub-item">
-  <span class="badge">Journal</span> <span class="badge">RA-L</span><br>
+  <span class="badge">Journal</span><span class="badge">RA-L</span><br>
   <strong>Naceri, A., Elsner, J., Tröbinger, M., Sadeghian, H., Johannsmeier, L., Voigt, F., Chen, X., Macari, D., Jähne, C., Berlet, M., Fuchtmann, J., Figueredo, L. F. C., Feußner, H., Wilhelm, D., & Haddadin, S.</strong> (2022).<br>
   <em>Tactile Robotic Telemedicine for Safe Remote Diagnostics in Times of Corona: System Design, Feasibility and Usability Study.</em><br>
   <strong>IEEE Robotics and Automation Letters</strong>, 7(4), 10296–10303.
 </div>
 
 <div class="pub-item">
-  <span class="badge">Journal</span> <span class="badge">RAM</span><br>
+  <span class="badge">Journal</span><span class="badge">RAM</span><br>
   <strong>Haddadin, S., Parusel, S., Johannsmeier, L., Golz, S., Gabl, S., Walch, F., Sabaghian, M., Jähne, C., Hausperger, L., & Haddadin, S.</strong> (2022).<br>
   <em>The Franka Emika Robot: A Reference Platform for Robotics Research and Education.</em><br>
   <strong>IEEE Robotics and Automation Magazine</strong>, 29(2), 46–64.
@@ -55,14 +48,14 @@ For the full and most up-to-date list, see:
 </div>
 
 <div class="pub-item">
-  <span class="badge">Journal</span> <span class="badge">Proceedings of the IEEE</span><br>
+  <span class="badge">Journal</span><span class="badge">Proceedings of the IEEE</span><br>
   <strong>Haddadin, S., Johannsmeier, L., & Diaz Ledezma, F.</strong> (2019).<br>
   <em>Tactile Robots as a Central Embodiment of the Tactile Internet.</em><br>
   <strong>Proceedings of the IEEE</strong>, 107(2), 471–487.
 </div>
 
 <div class="pub-item">
-  <span class="badge">Journal</span> <span class="badge">RA-L</span><br>
+  <span class="badge">Journal</span><span class="badge">RA-L</span><br>
   <strong>Johannsmeier, L., & Haddadin, S.</strong> (2017).<br>
   <em>A Hierarchical Human-Robot Interaction-Planning Framework for Task Allocation in Collaborative Industrial Assembly Processes.</em><br>
   <strong>IEEE Robotics and Automation Letters</strong>, 2(1), 41–48.
@@ -120,7 +113,7 @@ For the full and most up-to-date list, see:
 </div>
 
 <div class="pub-item">
-  <span class="badge">Conference</span> <span class="badge">ICRA</span><br>
+  <span class="badge">Conference</span><span class="badge">ICRA</span><br>
   <strong>Kuehn, J., Ringwald, J., Schappler, M., Johannsmeier, L., & Haddadin, S.</strong> (2019).<br>
   <em>Towards Semi-Autonomous and Soft-Robotics Enabled Upper-Limb Exoprosthetics: First Concepts and Robot-Based Emulation Prototype.</em><br>
   In <strong>ICRA</strong> (pp. 9180–9186).
