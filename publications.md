@@ -23,7 +23,7 @@ This page lists selected publications. For the full and most up-to-date list, se
   <strong>Proceedings of the IEEE</strong>, 107(2), 471–487.
 </div>
 
-## Conference Papers
+## Books and Theses
 
 <div class="pub-item">
   <span class="badge">Conference</span><span class="badge">ICRA</span><br>
