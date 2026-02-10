@@ -1,22 +1,59 @@
 ---
+layout: page
 title: Home
+permalink: /
 ---
 
-# Hi, I’m Lars Johannsmeier 👋
+<section class="hero">
+  <p class="kicker">Robotics · AI · Machine Learning</p>
+  <h1>Hi, I’m Lars Johannsmeier 👋</h1>
+  <p>
+    I am a research scientist focused on robot manipulation learning, tactile skills,
+    and autonomous systems, with a track record in both academic and industrial research.
+  </p>
+  <div class="button-row">
+    <a class="btn btn-primary" href="{{ '/publications/' | relative_url }}">View Publications</a>
+    <a class="btn btn-secondary" href="{{ '/cv/' | relative_url }}">View CV</a>
+  </div>
+</section>
 
-I am a research scientist in **robotics, AI, and machine learning**, with over eight years of academic research experience and two years in industrial research.  
-My work focuses on **robot manipulation learning, tactile skills, and autonomous systems**, with proven experience transferring research results into commercial products.
+## Research Focus
 
-I’m currently a **Research Scientist at NVIDIA Corporation**. Previously, I served as Head of Robotics Learning at Franka Robotics GmbH and held research positions at the Technical University of Munich and Leibniz Universität Hannover.
+<div class="grid">
+  <article class="card">
+    <p class="kicker">Focus Area</p>
+    <h3>Tactile Manipulation</h3>
+    <p>Learning robust contact-rich manipulation strategies under uncertainty.</p>
+  </article>
+  <article class="card">
+    <p class="kicker">Focus Area</p>
+    <h3>Robot Learning</h3>
+    <p>Bridging imitation learning, adaptive control, and policy synthesis in real robots.</p>
+  </article>
+  <article class="card">
+    <p class="kicker">Focus Area</p>
+    <h3>Autonomous Systems</h3>
+    <p>Planning and execution pipelines that transfer from lab to product deployments.</p>
+  </article>
+</div>
 
----
+## Selected Publications
 
-### Quick Links
+- **Nature Machine Intelligence (2025)** — *A process-centric manipulation taxonomy for the organisation, classification and synthesis of tactile robot skills.*
+- **Proceedings of the IEEE (2018)** — *Tactile robots as a central embodiment of the tactile internet.*
+- **IROS (2022)** — *Can we reach human expert programming performance?*
 
-- ➤ [About](about.md)  
-- ➤ [Publications](publications.md)  
-- ➤ [Projects](projects.md)  
-- ➤ [Videos & Demos](videos.md)  
-- ➤ [Articles](articles.md)  
-- ➤ [CV](cv.md)  
-- ➤ [Contact](contact.md)
+[See full publication list →]({{ '/publications/' | relative_url }})
+
+## Experience Highlights
+
+- **Research Scientist**, NVIDIA Corporation
+- **Head of Robotics Learning**, Franka Robotics GmbH
+- Research roles at **TUM**, **LUH**, and **DLR**
+
+## Explore More
+
+- [Research]({{ '/research/' | relative_url }})
+- [Talks]({{ '/talks/' | relative_url }})
+- [Media]({{ '/media/' | relative_url }})
+- [About]({{ '/about/' | relative_url }})

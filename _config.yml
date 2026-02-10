@@ -1,0 +1,28 @@
+title: Lars Johannsmeier
+description: >-
+  Research scientist in robotics, tactile manipulation learning, and autonomous systems.
+baseurl: ""
+url: ""
+theme: minima
+
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - talks.md
+  - media.md
+  - about.md
+  - cv.md
+
+minima:
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/" }
+    - { platform: orcid, user_url: "https://orcid.org/" }
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
