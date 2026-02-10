@@ -19,23 +19,7 @@ permalink: /
 
 ## Research Focus
 
-<div class="grid">
-  <article class="card">
-    <p class="kicker">Focus Area</p>
-    <h3>Tactile Manipulation</h3>
-    <p>Learning robust contact-rich manipulation strategies under uncertainty.</p>
-  </article>
-  <article class="card">
-    <p class="kicker">Focus Area</p>
-    <h3>Robot Learning</h3>
-    <p>Bridging imitation learning, adaptive control, and policy synthesis in real robots.</p>
-  </article>
-  <article class="card">
-    <p class="kicker">Focus Area</p>
-    <h3>Autonomous Systems</h3>
-    <p>Planning and execution pipelines that transfer from lab to product deployments.</p>
-  </article>
-</div>
+My research centers on tactile robot manipulation and learning-based skill acquisition, with a strong emphasis on contact-rich control, autonomous policy synthesis, and transfer from controlled lab settings to robust industrial deployment; across roles in academia and industry, I connect representation learning, planning, and systems engineering to build robotic skills that are reliable under uncertainty and practical for real-world applications.
 
 ## Selected Publications
 
