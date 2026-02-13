@@ -138,27 +138,37 @@ h1, h2, h3 {
 
 .home-sections {
   display: grid;
-  gap: 1.2rem;
+  gap: 1.4rem;
 }
 
 .home-section {
-  background: linear-gradient(180deg, #ffffff 0%, #fafcff 100%);
-  border: 1px solid #d6e1f0;
-  border-left: 4px solid #c3d5ec;
-  border-radius: 12px;
-  padding: 1.15rem 1.3rem;
-  box-shadow: 0 4px 18px rgba(10, 27, 53, 0.06);
+  position: relative;
+  background: linear-gradient(180deg, #ffffff 0%, #f7fbff 100%);
+  border: 2px solid #d3dfef;
+  border-left: 6px solid #9fbde0;
+  border-radius: 14px;
+  padding: 1.2rem 1.35rem;
+  box-shadow: 0 8px 24px rgba(10, 27, 53, 0.08);
 }
 
 .home-section:nth-of-type(even) {
-  border-left-color: #9ec0e6;
-  background: linear-gradient(180deg, #fcfdff 0%, #f5f9ff 100%);
+  border-left-color: #7fa9d8;
+  background: linear-gradient(180deg, #fafdff 0%, #eef5ff 100%);
 }
 
 .home-section h2 {
   margin-top: 0;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.65rem;
   font-size: 1.35rem;
+}
+
+.home-section h2::after {
+  content: "";
+  display: block;
+  width: 52px;
+  height: 2px;
+  margin-top: 0.35rem;
+  background: #b1c8e4;
 }
 
 .home-section p,
