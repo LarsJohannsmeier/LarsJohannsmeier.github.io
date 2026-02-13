@@ -138,19 +138,21 @@ h1, h2, h3 {
 
 .home-sections {
   display: grid;
-  gap: 1rem;
+  gap: 1.2rem;
 }
 
 .home-section {
-  background: #fff;
-  border: 1px solid #e3eaf5;
+  background: linear-gradient(180deg, #ffffff 0%, #fafcff 100%);
+  border: 1px solid #d6e1f0;
+  border-left: 4px solid #c3d5ec;
   border-radius: 12px;
-  padding: 1.15rem 1.25rem;
-  box-shadow: 0 1px 8px rgba(10, 27, 53, 0.04);
+  padding: 1.15rem 1.3rem;
+  box-shadow: 0 4px 18px rgba(10, 27, 53, 0.06);
 }
 
 .home-section:nth-of-type(even) {
-  background: #fcfdff;
+  border-left-color: #9ec0e6;
+  background: linear-gradient(180deg, #fcfdff 0%, #f5f9ff 100%);
 }
 
 .home-section h2 {
