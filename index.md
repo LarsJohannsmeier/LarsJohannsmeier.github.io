@@ -28,6 +28,8 @@ permalink: /
     </p>
   </section>
 
+  <hr class="section-divider" />
+
   <section class="home-section">
     <h2>Selected Publications</h2>
     <ul>
@@ -38,6 +40,8 @@ permalink: /
     <p><a href="{{ '/publications/' | relative_url }}">See full publication list →</a></p>
   </section>
 
+  <hr class="section-divider" />
+
   <section class="home-section">
     <h2>Experience Highlights</h2>
     <ul>
@@ -46,6 +50,8 @@ permalink: /
       <li>Research roles at <strong>TUM</strong>, <strong>LUH</strong>, and <strong>DLR</strong></li>
     </ul>
   </section>
+
+  <hr class="section-divider" />
 
   <section class="home-section">
     <h2>Explore More</h2>

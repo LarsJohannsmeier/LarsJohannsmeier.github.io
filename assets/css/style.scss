@@ -136,6 +136,14 @@ h1, h2, h3 {
   background: #fbfcff;
 }
 
+
+.section-divider {
+  border: 0;
+  height: 1px;
+  margin: 0.25rem 0;
+  background: linear-gradient(90deg, rgba(11,31,58,0.04) 0%, rgba(127,169,216,0.65) 50%, rgba(11,31,58,0.04) 100%);
+}
+
 .home-sections {
   display: grid;
   gap: 1.4rem;
@@ -175,3 +183,4 @@ h1, h2, h3 {
 .home-section ul {
   margin-bottom: 0;
 }
+
