@@ -10,9 +10,7 @@ header_pages:
   - research.md
   - publications.md
   - talks.md
-  - media.md
   - about.md
-  - cv.md
 
 minima:
   social_links:
