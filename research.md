@@ -6,15 +6,16 @@ permalink: /research/
 
 ## Research Themes
 
-### 1) Tactile Skill Learning
-Developing representations and policies for contact-rich manipulation, with emphasis on transferability and robustness.
+### 1) Contact-Intensive Manipulation Learning
+Learning architectures and models for tactile and contact-rich robotic skills.
 
 ### 2) Autonomous Policy Synthesis
-Combining process taxonomies, planning, and learning to automate policy generation for robotic skills.
+Process-taxonomy-based planning and learning-driven policy generation for manipulation tasks.
 
-### 3) Applied Industrial Robotics
-Translating research into practical systems with measurable gains in performance, reliability, and deployment readiness.
+### 3) Real-World Robotics Systems
+From demonstrators to product transfer: robust implementation across control, planning, and software systems.
 
 ## Current Direction
 
-I am especially interested in methods that bridge foundational learning theory and system-level engineering constraints in real robotic platforms.
+My current work at NVIDIA focuses on robotics, AI, and machine learning, with an emphasis on
+methods that scale from research prototypes to dependable real-world systems.
