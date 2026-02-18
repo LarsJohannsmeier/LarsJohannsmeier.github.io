@@ -11,13 +11,13 @@ permalink: /
     <p class="home-short">
       Robotics, AI, and machine learning for contact-intensive robot manipulation.
     </p>
-    <ul class="home-links">
-      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-      <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
-      <li><a href="{{ '/talks/' | relative_url }}">Talks</a></li>
-      <li><a href="https://www.linkedin.com/in/lars-johannsmeier-575940181/">LinkedIn</a></li>
-      <li><a href="https://orcid.org/0000-0003-4599-7636">ORCID</a></li>
-    </ul>
+    <p class="home-links">
+      <a href="{{ '/about/' | relative_url }}">About</a> /
+      <a href="{{ '/publications/' | relative_url }}">Publications</a> /
+      <a href="{{ '/talks/' | relative_url }}">Talks</a> /
+      <a href="https://www.linkedin.com/in/lars-johannsmeier-575940181/">LinkedIn</a> /
+      <a href="https://orcid.org/0000-0003-4599-7636">ORCID</a>
+    </p>
   </aside>
 
   <main class="home-main">
