@@ -13,7 +13,6 @@ permalink: /
     </p>
     <ul class="home-links">
       <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-      <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
       <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
       <li><a href="{{ '/talks/' | relative_url }}">Talks</a></li>
       <li><a href="https://www.linkedin.com/in/lars-johannsmeier-575940181/">LinkedIn</a></li>
@@ -34,31 +33,31 @@ permalink: /
 
     <section>
       <h2>Research Interests</h2>
-      <ul>
-        <li>Manipulation learning for contact-rich and tactile tasks</li>
-        <li>Autonomous policy synthesis and planning</li>
-        <li>Scalable robotics software and system integration</li>
-      </ul>
+      <h3>Research Themes</h3>
+      <h4>1) Contact-Intensive Manipulation Learning</h4>
+      <p>Learning architectures and models for tactile and contact-rich robotic skills.</p>
+
+      <h4>2) Autonomous Policy Synthesis</h4>
+      <p>Process-taxonomy-based planning and learning-driven policy generation for manipulation tasks.</p>
+
+      <h4>3) Real-World Robotics Systems</h4>
+      <p>From demonstrators to product transfer: robust implementation across control, planning, and software systems.</p>
+
+      <h3>Current Direction</h3>
+      <p>
+        My current work at NVIDIA focuses on robotics, AI, and machine learning, with an emphasis on
+        methods that scale from research prototypes to dependable real-world systems.
+      </p>
     </section>
 
     <section>
       <h2>Selected Publications</h2>
       <ul>
         <li><strong>Nature Machine Intelligence (2025)</strong> — <em>A process-centric manipulation taxonomy for the organisation, classification and synthesis of tactile robot skills.</em></li>
-        <li><strong>IEEE Robotics and Automation Letters (2023)</strong> — <em>Towards Task-Specific Modular Gripper Fingers: Automatic Production of Fingertip Mechanics.</em></li>
+        <li><strong>ICRA (2019)</strong> — <em>A Framework for Robot Manipulation: Skill Formalism, Meta Learning and Adaptive Control.</em></li>
         <li><strong>Proceedings of the IEEE (2019)</strong> — <em>Tactile Robots as a Central Embodiment of the Tactile Internet.</em></li>
       </ul>
       <p><a href="{{ '/publications/' | relative_url }}">See full publication list →</a></p>
-    </section>
-
-    <section>
-      <h2>Experience</h2>
-      <ul>
-        <li><strong>Research Scientist</strong>, NVIDIA Corporation (Nov 2024–today)</li>
-        <li><strong>Head of Robotics Learning</strong>, Franka Robotics GmbH (Apr 2022–Aug 2024)</li>
-        <li><strong>Research Assistant</strong>, Technical University of Munich (Apr 2018–Mar 2022)</li>
-        <li><strong>Research Assistant</strong>, Leibniz Universität Hannover (Sep 2014–Mar 2018)</li>
-      </ul>
     </section>
   </main>
 </div>
