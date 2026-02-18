@@ -52,11 +52,37 @@ permalink: /
 
     <section>
       <h2>Selected Publications</h2>
-      <ul>
-        <li><strong>Nature Machine Intelligence (2025)</strong> — <em>A process-centric manipulation taxonomy for the organisation, classification and synthesis of tactile robot skills.</em></li>
-        <li><strong>ICRA (2019)</strong> — <em>A Framework for Robot Manipulation: Skill Formalism, Meta Learning and Adaptive Control.</em></li>
-        <li><strong>Proceedings of the IEEE (2019)</strong> — <em>Tactile Robots as a Central Embodiment of the Tactile Internet.</em></li>
-      </ul>
+      <div class="selected-publications">
+        <article class="publication-card">
+          <p class="publication-venue"><strong>Nature Machine Intelligence (2025)</strong></p>
+          <h3 class="publication-title">
+            <a href="https://www.nature.com/articles/s42256-025-01076-2">A process-centric manipulation taxonomy for the organisation, classification and synthesis of tactile robot skills.</a>
+          </h3>
+          <p class="publication-abstract">
+            This paper introduces a process-centric taxonomy for tactile manipulation that structures robot skills by manipulation process instead of only by task labels. The taxonomy provides a principled basis for organizing prior knowledge and guiding skill synthesis.
+          </p>
+        </article>
+
+        <article class="publication-card">
+          <p class="publication-venue"><strong>ICRA (2019)</strong></p>
+          <h3 class="publication-title">
+            <a href="https://ieeexplore.ieee.org/document/8793529">A Framework for Robot Manipulation: Skill Formalism, Meta Learning and Adaptive Control.</a>
+          </h3>
+          <p class="publication-abstract">
+            The work presents a manipulation framework that combines a structured skill formalism with meta-learning and adaptive control. The goal is to speed up skill acquisition while maintaining robust performance under changing task dynamics.
+          </p>
+        </article>
+
+        <article class="publication-card">
+          <p class="publication-venue"><strong>Proceedings of the IEEE (2019)</strong></p>
+          <h3 class="publication-title">
+            <a href="https://ieeexplore.ieee.org/document/8624466">Tactile Robots as a Central Embodiment of the Tactile Internet.</a>
+          </h3>
+          <p class="publication-abstract">
+            This article discusses tactile robots as a key embodiment layer for the Tactile Internet, connecting sensing, communication, and control requirements. It outlines the technical foundations and system-level implications for reliable remote physical interaction.
+          </p>
+        </article>
+      </div>
       <p><a href="{{ '/publications/' | relative_url }}">See full publication list →</a></p>
     </section>
   </main>
